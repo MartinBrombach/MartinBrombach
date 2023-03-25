@@ -9,6 +9,8 @@
   <img alt="Vue" src="https://img.shields.io/badge/-Vue3-41b883?style=flat-square&logo=vuedotjs&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-00749c?style=flat-square&logo=wordpress&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-Php-787CB5?style=flat-square&logo=php&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
