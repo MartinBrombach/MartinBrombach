@@ -2,7 +2,7 @@
 
 <p>Welcome to my page!</br> I'm Martin, a junior developer from <img src="https://cdn-icons-png.flaticon.com/512/5315/5315731.png" width="13"/> <b>Moss, Norway</b>.</p>
 <h3>🔨 Languages and Tools:</h3>
-<p>
+<p style="text-align:center;">
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Quasar" src="https://img.shields.io/badge/-Quasar-00b4ff?style=flat-square&logo=quasar&logoColor=white" />
