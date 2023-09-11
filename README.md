@@ -17,4 +17,5 @@
   <img alt="Webflow" src="https://img.shields.io/badge/-Webflow-404ff2?style=flat-square&logo=webflow&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-FD3D39?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=flat-square&logo=react&logoColor=black" />
 </p>
